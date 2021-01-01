@@ -12,7 +12,7 @@ This is a simple calculator using Tkinter.
 ### Dependencies
 > pip install tkinter  <br>
 
-           or
+           (or)
 
 > pip3 install tkinter
 
